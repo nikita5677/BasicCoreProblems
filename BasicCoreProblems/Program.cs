@@ -10,29 +10,9 @@ namespace BasicCoreProblems
     {
         static void Main(string[] args)
         {
-            //FlipCoin.Coin();
-            //Console.ReadLine();
 
-            //PowerOfTwo.Year();
-            //Console.ReadLine();
-
-            Factors.Number();
+            QRemainder.Remainder();
             Console.ReadLine();
-
-            //QRemainder.Remainder();
-            //Console.ReadLine();
-
-            //Swap.Number();
-            //Console.ReadLine();
-
-            //EvenOdd.Evodd();
-            //Console.ReadLine();
-
-            //VowelConsonants.Consonants();
-            //Console.ReadLine();
-
-            //LargeNumber.Greater();
-            //Console.ReadLine();
         }
     }
 }

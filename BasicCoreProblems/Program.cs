@@ -11,7 +11,7 @@ namespace BasicCoreProblems
         static void Main(string[] args)
         {
 
-            VowelConsonants.Consonants();
+            LargeNumber.Greater();
             Console.ReadLine();
         }
     }

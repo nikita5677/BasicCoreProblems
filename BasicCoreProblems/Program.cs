@@ -11,7 +11,7 @@ namespace BasicCoreProblems
         static void Main(string[] args)
         {
 
-            Swap.Number();
+            EvenOdd.Evodd();
             Console.ReadLine();
         }
     }

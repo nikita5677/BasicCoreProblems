@@ -11,7 +11,7 @@ namespace BasicCoreProblems
         static void Main(string[] args)
         {
 
-            QRemainder.Remainder();
+            Swap.Number();
             Console.ReadLine();
         }
     }

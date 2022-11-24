@@ -10,11 +10,11 @@ namespace BasicCoreProblems
     {
         static void Main(string[] args)
         {
-            FlipCoin.Coin();
-            Console.ReadLine();
-
-            //LeapYear.Year();
+            //FlipCoin.Coin();
             //Console.ReadLine();
+
+            LeapYear.Year();
+            Console.ReadLine();
 
             //PowerOFTwo.Power();
             //Console.ReadLine();

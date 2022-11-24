@@ -13,11 +13,11 @@ namespace BasicCoreProblems
             //FlipCoin.Coin();
             //Console.ReadLine();
 
-            LeapYear.Year();
-            Console.ReadLine();
-
-            //PowerOFTwo.Power();
+            //PowerOfTwo.Year();
             //Console.ReadLine();
+
+            PowerOfTwo.Power();
+            Console.ReadLine();
 
             //HarmonicNumber.Number();
             //Console.ReadLine();

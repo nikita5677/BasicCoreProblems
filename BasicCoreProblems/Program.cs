@@ -11,7 +11,7 @@ namespace BasicCoreProblems
         static void Main(string[] args)
         {
 
-            EvenOdd.Evodd();
+            VowelConsonants.Consonants();
             Console.ReadLine();
         }
     }

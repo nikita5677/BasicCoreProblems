@@ -16,11 +16,8 @@ namespace BasicCoreProblems
             //PowerOfTwo.Year();
             //Console.ReadLine();
 
-            HarmonicNumber.Number();
+            Factors.Number();
             Console.ReadLine();
-
-            //Factors.Number();
-            //Console.ReadLine();
 
             //QRemainder.Remainder();
             //Console.ReadLine();

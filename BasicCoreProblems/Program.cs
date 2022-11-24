@@ -13,32 +13,32 @@ namespace BasicCoreProblems
             FlipCoin.Coin();
             Console.ReadLine();
 
-            LeapYear.Year();
-            Console.ReadLine();
+            //LeapYear.Year();
+            //Console.ReadLine();
 
-            PowerOFTwo.Power();
-            Console.ReadLine();
+            //PowerOFTwo.Power();
+            //Console.ReadLine();
 
-            HarmonicNumber.Number();
-            Console.ReadLine();
+            //HarmonicNumber.Number();
+            //Console.ReadLine();
 
-            Factors.Number();
-            Console.ReadLine();
+            //Factors.Number();
+            //Console.ReadLine();
 
-            QRemainder.Remainder();
-            Console.ReadLine();
+            //QRemainder.Remainder();
+            //Console.ReadLine();
 
-            Swap.Number();
-            Console.ReadLine();
+            //Swap.Number();
+            //Console.ReadLine();
 
-            EvenOdd.Evodd();
-            Console.ReadLine();
+            //EvenOdd.Evodd();
+            //Console.ReadLine();
 
-            VowelConsonants.Consonants();
-            Console.ReadLine();
+            //VowelConsonants.Consonants();
+            //Console.ReadLine();
 
-            LargeNumber.Greater();
-            Console.ReadLine();
+            //LargeNumber.Greater();
+            //Console.ReadLine();
         }
     }
 }
